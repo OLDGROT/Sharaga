@@ -1,0 +1,34 @@
+D:\Учёба\Sharp\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.exe
+D:\Учёба\Sharp\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.deps.json
+D:\Учёба\Sharp\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.runtimeconfig.json
+D:\Учёба\Sharp\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.dll
+D:\Учёба\Sharp\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.pdb
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.csproj.AssemblyReference.cache
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.Form1.resources
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.csproj.GenerateResource.cache
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.AssemblyInfoInputs.cache
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.AssemblyInfo.cs
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.csproj.CoreCompileInputs.cache
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.dll
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\refint\lab4.dll
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.pdb
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.genruntimeconfig.cache
+D:\Учёба\Sharp\lab4\lab4\lab4\obj\Debug\net6.0-windows\ref\lab4.dll
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.exe
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.deps.json
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.runtimeconfig.json
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.dll
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\bin\Debug\net6.0-windows\lab4.pdb
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.csproj.AssemblyReference.cache
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.Form1.resources
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.csproj.GenerateResource.cache
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.AssemblyInfoInputs.cache
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.AssemblyInfo.cs
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.dll
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\refint\lab4.dll
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.pdb
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\lab4.genruntimeconfig.cache
+D:\Учёба\3 курс\ООП\lab4\lab4\lab4\obj\Debug\net6.0-windows\ref\lab4.dll

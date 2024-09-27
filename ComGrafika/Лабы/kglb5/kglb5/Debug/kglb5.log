@@ -1,0 +1,16 @@
+﻿  kglb5.cpp
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(114,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(114,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(115,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(115,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(117,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(117,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(121,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(121,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(122,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(122,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(124,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(124,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(125,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\OneDrive\Рабочий стол\kglb5\kglb5\kglb5.cpp(125,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  kglb5.vcxproj -> C:\Users\sasha\OneDrive\Рабочий стол\kglb5\Debug\kglb5.exe

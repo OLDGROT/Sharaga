@@ -1,0 +1,6 @@
+﻿  ComGraf1.cpp
+C:\Users\sasha\source\repos\ComGraf1\ComGraf1.cpp(190,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\ComGraf1\ComGraf1.cpp(190,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\ComGraf1\ComGraf1.cpp(191,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\ComGraf1\ComGraf1.cpp(191,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ComGraf1.vcxproj -> C:\Users\sasha\source\repos\ComGraf1\x64\Debug\ComGraf1.exe

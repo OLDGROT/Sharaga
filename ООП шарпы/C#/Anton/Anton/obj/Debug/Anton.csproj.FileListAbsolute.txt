@@ -1,0 +1,11 @@
+C:\Users\Maxim\Desktop\C#\Anton\Anton\bin\Debug\Anton.exe.config
+C:\Users\Maxim\Desktop\C#\Anton\Anton\bin\Debug\Anton.exe
+C:\Users\Maxim\Desktop\C#\Anton\Anton\bin\Debug\Anton.pdb
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.Form1.resources
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.Properties.Resources.resources
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.exe
+C:\Users\Maxim\Desktop\C#\Anton\Anton\obj\Debug\Anton.pdb

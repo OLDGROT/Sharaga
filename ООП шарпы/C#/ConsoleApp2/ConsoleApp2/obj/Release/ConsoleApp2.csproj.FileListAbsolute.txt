@@ -1,0 +1,8 @@
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\Maxim\Desktop\C#\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb

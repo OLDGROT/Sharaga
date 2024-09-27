@@ -1,0 +1,8 @@
+﻿  kglb2.cpp
+C:\Users\sasha\source\repos\kglb2\kglb2.cpp(96,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\kglb2\kglb2.cpp(96,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\kglb2\kglb2.cpp(98,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\kglb2\kglb2.cpp(98,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\kglb2\kglb2.cpp(100,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sasha\source\repos\kglb2\kglb2.cpp(100,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  kglb2.vcxproj -> C:\Users\sasha\source\repos\kglb2\x64\Debug\kglb2.exe

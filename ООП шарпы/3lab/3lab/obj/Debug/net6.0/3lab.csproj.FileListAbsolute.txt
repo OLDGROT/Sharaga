@@ -1,0 +1,15 @@
+D:\Учёба\3 курс\ООП\3lab\3lab\bin\Debug\net6.0\3lab.exe
+D:\Учёба\3 курс\ООП\3lab\3lab\bin\Debug\net6.0\3lab.deps.json
+D:\Учёба\3 курс\ООП\3lab\3lab\bin\Debug\net6.0\3lab.runtimeconfig.json
+D:\Учёба\3 курс\ООП\3lab\3lab\bin\Debug\net6.0\3lab.dll
+D:\Учёба\3 курс\ООП\3lab\3lab\bin\Debug\net6.0\3lab.pdb
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.csproj.AssemblyReference.cache
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.AssemblyInfoInputs.cache
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.AssemblyInfo.cs
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.dll
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\refint\3lab.dll
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.pdb
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\3lab.genruntimeconfig.cache
+D:\Учёба\3 курс\ООП\3lab\3lab\obj\Debug\net6.0\ref\3lab.dll

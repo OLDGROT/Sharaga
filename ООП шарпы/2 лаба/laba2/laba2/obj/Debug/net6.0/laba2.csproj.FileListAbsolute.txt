@@ -1,0 +1,30 @@
+C:\Users\2-2\source\repos\laba2\laba2\bin\Debug\net6.0\laba2.exe
+C:\Users\2-2\source\repos\laba2\laba2\bin\Debug\net6.0\laba2.deps.json
+C:\Users\2-2\source\repos\laba2\laba2\bin\Debug\net6.0\laba2.runtimeconfig.json
+C:\Users\2-2\source\repos\laba2\laba2\bin\Debug\net6.0\laba2.dll
+C:\Users\2-2\source\repos\laba2\laba2\bin\Debug\net6.0\laba2.pdb
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.csproj.AssemblyReference.cache
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfoInputs.cache
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfo.cs
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.csproj.CoreCompileInputs.cache
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.dll
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\refint\laba2.dll
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.pdb
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\laba2.genruntimeconfig.cache
+C:\Users\2-2\source\repos\laba2\laba2\obj\Debug\net6.0\ref\laba2.dll
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.csproj.AssemblyReference.cache
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfoInputs.cache
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfo.cs
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.dll
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\refint\laba2.dll
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.pdb
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.exe
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.deps.json
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.runtimeconfig.json
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.dll
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\bin\Debug\net6.0\laba2.pdb
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\laba2.genruntimeconfig.cache
+D:\Учёба\3 курс\ООП\2 лаба\laba2\laba2\obj\Debug\net6.0\ref\laba2.dll
